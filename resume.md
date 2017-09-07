@@ -6,7 +6,6 @@ permalink: /resume/
 Computer Science, UBON RATCHATHANI RAJABHAT UNIVERSITY
 
 # Experience
-- 
         วิชาสมุนไพรศาสตร์ สอนการดูแลรักษาพืชวิเศษต่างๆ
         วิชาปรุงยา สอนการปรุงยาต่างๆที่มีผลทางเวทมนตร์
         วิชาแปลงร่าง สอนการเปลี่ยนสมบัติของวัตถุต่างๆ
@@ -22,7 +21,6 @@ Computer Science, UBON RATCHATHANI RAJABHAT UNIVERSITY
         วิชาพยากรณ์ศาสตร์ สอนการทำนาย (หรือพยายามจะทำนาย) เหตุการณ์ในอนาคต
         วิชาอักษรรูนโบราณ สอนเกี่ยวกับตัวอักษรรูน ซึ่งเชื่อว่าเป็นภาษาเวทมนตร์ที่ตายไปแล้ว
         วิชาตัวเลขมหัศจรรย์ สอนเกี่ยวกับคุณสมบัติวิเศษของตัวเลข
-
 
 # Education
 - COMPUTER SCIENCE, UBON RATCHATHANI RAJABHAT UNIVERSITY
