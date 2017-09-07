@@ -6,11 +6,11 @@ permalink: /about/
 
 ##### facebook: liew chatchawawan
 #### 7/9/2560
-#### blog: https://chatchawanliew.github.io
+#### [chatchawan blog](https://chatchawanliew.github.io)
 ##### More Information
 
 A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-#### [chatchawan.scs57@ubru.ac.th](chatchawan.scs57@ubru.ac.th)
+#### [EMAIL](chatchawan.scs57@ubru.ac.th)
